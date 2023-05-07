@@ -9,9 +9,11 @@ public class Ex1 {
 
         qtdMin = Integer.parseInt(JOptionPane.showInputDialog("Informe a quantidade mínima da peça: "));
         qtdMax = Integer.parseInt(JOptionPane.showInputDialog("Informe a quantidade mínima da peça: "));
+        System.out.println("O valor informado para a quantidade mínima foi de: " + qtdMin);
+        System.out.println("O valor informado para a quantidade máxima foi de: " + qtdMax);
 
         estoqueMedio = (qtdMin + qtdMax) / 2;
 
-        JOptionPane.showMessageDialog(null, "De acordo com o informado, o estoque médio dessa peça é: " + "\n" + estoqueMedio);
+        System.out.println("O estoque médio a partir dos valores informados é de " + estoqueMedio);
     }
 }

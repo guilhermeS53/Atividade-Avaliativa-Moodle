@@ -9,9 +9,11 @@ public class Ex2 {
 
         cotaDolar = Double.parseDouble(JOptionPane.showInputDialog("Informe a cotação do dólar: "));
         valDolar = Double.parseDouble(JOptionPane.showInputDialog("Informe o valor em dólar: "));
+        System.out.println("O valor da cotação do dólar informado foi " + cotaDolar);
+        System.out.println("O valor informado em dólar foi " + valDolar);
 
         valReal = (cotaDolar * valDolar);
 
-        JOptionPane.showMessageDialog(null, "O valor convertido para reais é: " + valReal);
+        System.out.println("O valor convertido para reais é: " + valReal);
     }
 }
