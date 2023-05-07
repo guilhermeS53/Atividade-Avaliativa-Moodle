@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44931e18-5572-4c2e-8584-5658e815b661" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ex06/Ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex07/Ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex08/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex09/Ex9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,5 +55,16 @@
       <updated>1683376934691</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
