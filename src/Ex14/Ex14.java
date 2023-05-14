@@ -11,7 +11,7 @@ public class Ex14 {
         maior = menor = igual = 0;
 
         for (int i = 0; i < v.length; i++) {
-            String ent = JOptionPane.showInputDialog("Informe um número para o array de 10 posições: " + (i+1));
+            String ent = JOptionPane.showInputDialog("Informe um número para o array de 10 posições " + (i+1) + " :");
             System.out.println("Os números informados foram: " + i);
             v[i] = Integer.parseInt(ent);
         }
