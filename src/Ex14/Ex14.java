@@ -1,10 +1,8 @@
 package Ex14;
 
-import javax.sound.midi.Soundbank;
 import javax.swing.*;
-import java.sql.SQLOutput;
 
-public class Ex15 {
+public class Ex14 {
     public static void main(String[] args) {
         int[] v = new int[2];
         int x;
