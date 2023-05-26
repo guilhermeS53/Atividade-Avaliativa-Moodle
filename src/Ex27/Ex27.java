@@ -2,7 +2,7 @@ package Ex27;
 
 public class Ex27 {
     public static void main(String[] args) {
-        ConversorDecimalParaBinario(7);
+        ConversorDecimalParaBinario(7); // valor em decimal
     }
     private static void ConversorDecimalParaBinario(int n){
         if (n > 0){
