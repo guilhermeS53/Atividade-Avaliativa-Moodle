@@ -68,7 +68,7 @@ public class Pessoa {
         for (int i = 0; i < lev; i++) {
             System.out.println(" ");
         }
-        System.out.println(pessoa.getNome() + " (" + pessoa.getIdade() + " anos)");
+        System.out.print(pessoa.getNome() + " [Possui " + pessoa.getIdade() + " anos de idade]");
 
         Pessoa pai = pessoa.getPai();
         if (pai != null) {
